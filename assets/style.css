@@ -1,0 +1,56 @@
+
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+}
+
+#addTvShow {
+	background-color: #f100de;
+	color: #FFFFFF;
+	border-width: 1px;
+	border-color: #ECECEC;
+
+}
+
+input {
+	border-radius: 5px;
+	border-width: 1px;
+	border-color: #ECECEC;
+	padding: 5px;
+	margin: 2px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+
+}
+
+.tvButton {
+	background-color: #f100de;
+	color: #FFFFFF;
+	border-radius: 5px;
+	border-width: 1px;
+	border-color: #ECECEC;
+	padding: 5px;
+	margin: 2px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+
+}
+
+form {
+	float: right;
+}
+
+span {
+	float: left;
+	text-align: center;
+	margin: 10px;
+}
+
+table {
+	width: 95%;
+	margin: 20px 0px 20px 10px;
+}
+
+tr {
+	vertical-align: top;
+}
